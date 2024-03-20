@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React js.**
 
-- 👯 I’m looking to collaborate on **Javasript projects**
+- 👯 I’m looking to collaborate on **Javascript projects**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Anamika011](https://hashnode.com/@Anamika011)
 
