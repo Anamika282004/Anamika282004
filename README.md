@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamika282004&label=Profile%20views&color=0e75b6&style=flat" alt="anamika282004" /> </p>
 
-- 🔭 I’m currently working on **Javscript**
+- 🔭 I’m currently working on **Javascript**
 
 - 🌱 I’m currently learning **React js.**
 
-- 👯 I’m looking to collaborate on **Javcsript projects**
+- 👯 I’m looking to collaborate on **Javasript projects**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Anamika011](https://hashnode.com/@Anamika011)
 
