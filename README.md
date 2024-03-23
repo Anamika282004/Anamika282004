@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **developeranamika@gmail.com**
 
-- ⚡ Fun fact **I am Funny with my subject and work.**
+- ⚡ Fun fact **I am Funny with my subject and work. I don't have so many friends but have many 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
